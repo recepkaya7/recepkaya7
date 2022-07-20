@@ -17,7 +17,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][dart]
 
 <br />
-[dart]: https://dart.dev/
+
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
@@ -25,7 +25,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/
 [java]: https://www.java.com/en/
-
+[dart]: https://dart.dev/
 
 <br />
 <br />
